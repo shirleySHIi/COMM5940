@@ -5,12 +5,12 @@ Assignment3
 
 
 Rules:
-1)log in (20); 
-2)post a comment (15); 
-3)upadate a comment (20).
+1)log in (20); <br />
+2)post a comment (15); <br />
+3)upadate a comment (20). <br />
 
 <img src="user_points.png">
 
-You can also log in to have a test~
-Login name: Bernard
+You can also log in to have a test~ <br />
+Login name: Bernard <br />
 password: password
