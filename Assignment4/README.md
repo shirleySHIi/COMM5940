@@ -1,18 +1,18 @@
 Assignment4
 
 
-<li><a href="http://dev-shirleyshi.pantheonsite.io/">Drupal page.</a></li>
+Hi Bernard, I changed the block in this template to the view, which contains four fields, and the menu was changed, you can see <li><a href="http://dev-shirleyshi.pantheonsite.io/">Drupal page </a></li> here. 
 
 <br />
 
-Hi Bernard, I changed the block in this template to the view, which contains four fields. The menu was changed. And all content of the block as well menue can be edited, you can have a try.
+All content of the block as well menue can be edited, you can have a try.
 
 <br />
 
 You can login <li><a href="http://dev-shirleyshi.pantheonsite.io/user/login/">Here.</a></li>
 <br />
-Login name: Bernard
-password: password
+Login name: Bernard <br />
+Password: password
 
 <br />
 
